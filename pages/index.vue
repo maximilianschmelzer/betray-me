@@ -2,7 +2,7 @@
   <div>
     <div class="flex mx-4 my-4 items-center">
       <a
-        href="https://github.com/maximilianschmelzer/betray-me"
+        href="https://github.com/maximilianschmelzer/betrayal-helper"
         target="_blank"
       ><h1 class="text-center text-xl">github <font-awesome-icon
         class="text-red-600"

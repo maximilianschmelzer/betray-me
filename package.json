@@ -1,7 +1,25 @@
 {
-  "name": "betray-me",
-  "private": true,
-  "license": "UNLICENSED",
+  "name": "betrayal-helper",
+  "description": "smartphone only app as side car for the board game betrayal at house on the hill ",
+  "keywords": [
+    "betrayal",
+    "at",
+    "house",
+    "on",
+    "the",
+    "hill",
+    "betrayal at house on the hill",
+    "helper",
+    "tool"
+  ],
+  "homepage": "https://betrayal.vercel.app/",
+  "bugs": "https://github.com/maximilianschmelzer/betrayal-helper/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilianschmelzer/betrayal-helper.git"
+  },
+  "license": "MIT",
+  "author": "Maximilian Schmelzer <mail@maximilianschmelzer.com> (https://maximilianschmelzer.com/)",
   "scripts": {
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
