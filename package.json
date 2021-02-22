@@ -38,7 +38,7 @@
     "@nuxt/typescript-runtime": "^2.0.1",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.9.0",
-    "nuxt": "^2.15.0",
+    "nuxt": "^2.15.1",
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-property-decorator": "^2.9.1"
   },
